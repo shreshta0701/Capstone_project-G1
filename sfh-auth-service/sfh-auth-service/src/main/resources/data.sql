@@ -1,0 +1,4 @@
+INSERT INTO USERS VALUES (NEXT VALUE FOR HIBERNATE_SEQUENCE, 'mahale.sumit2018@gmail.com', 'sumit', 'USER');
+INSERT INTO USERS VALUES (NEXT VALUE FOR HIBERNATE_SEQUENCE, 'bharathnirujogi999@gmail.com', 'bharath', 'USER');
+INSERT INTO USERS VALUES (NEXT VALUE FOR HIBERNATE_SEQUENCE, 'prakashchowdary34@gmail.com', 'chowdary', 'USER');
+INSERT INTO USERS VALUES (NEXT VALUE FOR HIBERNATE_SEQUENCE, 'bharathnirujogi999@outlook.com', 'bobby', 'ADMIN');
